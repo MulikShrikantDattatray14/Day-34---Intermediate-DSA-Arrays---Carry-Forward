@@ -1,0 +1,13 @@
+Q6. Is the bulb ON - II
+
+Say the bulb is ON initially, after pressing the switch odd number of times, what will be the final state of the bulb?
+
+Choose the correct answer from below:
+A) ON
+B) OFF
+C) Can't be determined
+
+Ans : B) OFF
+
+Explaination : Pressing the switch odd number of times makes it 
+change its initial state.
